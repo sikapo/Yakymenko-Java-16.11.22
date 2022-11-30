@@ -10,7 +10,7 @@ class Solution {
         int firstNumber = 0;
         int secondNumber = 1;
 
-        while (n > 1) {
+        while (n > 1 && n < 31) {
             int tempNumber = secondNumber;
             secondNumber = secondNumber + firstNumber;
             firstNumber = tempNumber;
