@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43949fb6-2981-4c01-892b-576e1b8ee44a" name="Changes" comment="version 2">
-      <change afterPath="$PROJECT_DIR$/src/Interface/IOS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MusicStyles/ClassicMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MusicStyles/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MusicStyles/MusicStyles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MusicStyles/PopMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MusicStyles/RockMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="43949fb6-2981-4c01-892b-576e1b8ee44a" name="Changes" comment="version 3">
+      <change beforePath="$PROJECT_DIR$/src/MusicStyles/ClassicMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MusicStyles/ClassicMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MusicStyles/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MusicStyles/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MusicStyles/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MusicStyles/RockMusic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +53,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Owner/IdeaProjects/HelloGit"
+    "last_opened_file_path": "C:/Users/Owner/IdeaProjects/HelloGit",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RunManager" selected="Application.MusicStyles.Main">
@@ -118,7 +115,7 @@
       <updated>1668602881413</updated>
       <workItem from="1668602882681" duration="456000" />
       <workItem from="1669736536019" duration="12033000" />
-      <workItem from="1670396432979" duration="4593000" />
+      <workItem from="1670396432979" duration="4954000" />
     </task>
     <task id="LOCAL-00001" summary="version 1">
       <created>1668602956003</created>
@@ -155,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669799095615</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="version 3">
+      <created>1670401243061</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670401243061</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +179,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="version 1" />
     <MESSAGE value="version 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="version 2" />
+    <MESSAGE value="version 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 3" />
   </component>
 </project>
