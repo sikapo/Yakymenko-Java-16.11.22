@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43949fb6-2981-4c01-892b-576e1b8ee44a" name="Changes" comment="version 2" />
+    <list default="true" id="43949fb6-2981-4c01-892b-576e1b8ee44a" name="Changes" comment="version 2">
+      <change afterPath="$PROJECT_DIR$/src/Interface/IOS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicStyles/ClassicMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicStyles/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicStyles/MusicStyles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicStyles/PopMusic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MusicStyles/RockMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,13 +20,14 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="hello_git" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,13 +60,26 @@
     "last_opened_file_path": "C:/Users/Owner/IdeaProjects/HelloGit"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.MusicStyles.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Interface.Main" />
       <module name="HelloGit" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicStyles.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MusicStyles.Main" />
+      <module name="HelloGit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MusicStyles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MusicStyles.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution" />
       </list>
@@ -94,7 +117,8 @@
       <option name="presentableId" value="Default" />
       <updated>1668602881413</updated>
       <workItem from="1668602882681" duration="456000" />
-      <workItem from="1669736536019" duration="8588000" />
+      <workItem from="1669736536019" duration="12033000" />
+      <workItem from="1670396432979" duration="4593000" />
     </task>
     <task id="LOCAL-00001" summary="version 1">
       <created>1668602956003</created>
@@ -124,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669798666219</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="version 2">
+      <created>1669799095615</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669799095615</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
